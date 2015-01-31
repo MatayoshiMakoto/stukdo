@@ -36,6 +36,7 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'font-awesome-rails'
 gem 'simple_form'
 gem 'devise'
+gem 'auto_html'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
